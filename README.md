@@ -1,6 +1,6 @@
 ## Araceli Sanchez
 
-Senior software engineer. I took a fintech platform through three .NET migrations over five years. AdvicePay acquired it in 2025.
+Senior software engineer. I took a fintech platform through three .NET migrations over five years. It was acquired in 2025.
 
 **Portfolio:** [athinanarof.github.io](https://athinanarof.github.io/)
 
