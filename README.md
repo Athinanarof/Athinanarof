@@ -1,16 +1,13 @@
-## Hi there 👋
+## Araceli Sanchez
 
-<!--
-**Athinanarof/Athinanarof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer. I took a fintech platform through three .NET migrations over five years. AdvicePay acquired it in 2025.
 
-Here are some ideas to get you started:
+**Portfolio:** [athinanarof.github.io](https://athinanarof.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Where I've worked:**
+- Fintech: AdvisorBOB, acquired 2025
+- Federal compliance: EPA UIC regulatory work (MiSTAR)
+- Language internals: Darklang, OCaml to F# backend rewrite
+- AI/NLP: youth safety, sentiment analysis
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/araceli-sanchez-b6b32a111/) · aracelisanchezisc@gmail.com
