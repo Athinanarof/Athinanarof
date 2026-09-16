@@ -1,4 +1,4 @@
-## Araceli Sanchez
+## Araceli Sánchez
 
 Senior software engineer. I took a fintech platform through three .NET migrations over five years. It was acquired in 2025.
 
