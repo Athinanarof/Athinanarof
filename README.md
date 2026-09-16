@@ -6,7 +6,7 @@ Senior software engineer. Finance teams used to chase advisor payouts across spr
 
 **Where I've worked:**
 - Fintech: AdvisorBOB, acquired 2025
-- Land & royalty: Bensis, AWS-serverless SaaS for oil & gas
+- Production allocation: Bensis, AWS-serverless SaaS for oil & gas
 - Federal compliance: EPA UIC regulatory work (MiSTAR)
 - Language internals: Darklang, OCaml to F# backend rewrite
 - AI/NLP: youth safety, sentiment analysis
